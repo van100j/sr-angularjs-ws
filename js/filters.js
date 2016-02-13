@@ -1,0 +1,1 @@
+var srAppFilters = angular.module('SrAppFilters', []);

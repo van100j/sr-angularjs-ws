@@ -1,0 +1,1 @@
+FFC Strumica AngularJS Workshop

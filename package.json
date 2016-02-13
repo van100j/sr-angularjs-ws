@@ -1,0 +1,16 @@
+{
+  "name": "fcc-strumica-angular",
+  "version": "0.0.0",
+  "description": "FCC Angular JS Workshop",
+  "author": "Vanco Stojkov <van100j@gmail.com>",
+  "keywords": [
+    "fcc",
+    "strumica",
+    "angularjs"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-serve": "^1.2.0"
+  }
+}

@@ -1,0 +1,1 @@
+var srAppDirectives = angular.module('SrAppDirectives', []);
